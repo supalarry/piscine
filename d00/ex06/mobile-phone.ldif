@@ -1,0 +1,4 @@
+dn:uid=lskrauci,ou=piscine,ou=people,dc=codam,dc=nl
+changetype: modify
+add: mobile
+mobile: +37128224288

@@ -1,0 +1,5 @@
+Credentials cache: API:45689
+        Principal: lskrauci@CODAM.NL
+
+  Issued                Expires               Principal
+Sep 24 21:29:45 2018  Oct  1 21:29:29 2018  krbtgt/CODAM.NL@CODAM.NL
